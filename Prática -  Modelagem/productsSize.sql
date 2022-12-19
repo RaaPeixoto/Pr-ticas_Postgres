@@ -1,0 +1,4 @@
+CREATE TABLE "productsSize" (
+	id SERIAL NOT NULL PRIMARY KEY,
+	name VARCHAR(50) NOT NULL,
+);
